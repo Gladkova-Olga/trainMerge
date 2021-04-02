@@ -1,3 +1,10 @@
 Jumped over the lazy dog
 file3 string 2
 file 3 string 3
+
+new Line
+new cat
+new flat
+new city
+new lige
+new country
