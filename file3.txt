@@ -1,3 +1,6 @@
 Jumped over the lazy dog
 file3 string 2
 file 3 string 3
+
+
+String for conflict
